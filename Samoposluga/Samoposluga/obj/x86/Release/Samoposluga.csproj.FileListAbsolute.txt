@@ -1,0 +1,7 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\bin\Release\Samoposluga.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\bin\Release\Samoposluga.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Release\Samoposluga.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Release\Samoposluga.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Release\Samoposluga.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Release\Samoposluga.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Release\Samoposluga.pdb

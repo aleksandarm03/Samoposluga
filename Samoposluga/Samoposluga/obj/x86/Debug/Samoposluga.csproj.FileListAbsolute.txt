@@ -1,0 +1,32 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\bin\Debug\Samoposluga.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\bin\Debug\Samoposluga.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Debug\Samoposluga.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Debug\Samoposluga.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Debug\Samoposluga.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Debug\Samoposluga.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Samoposluga\obj\x86\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.exe
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\bin\Debug\Samoposluga.exe
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\bin\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.csproj.GenerateResource.Cache
+D:\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.exe
+D:\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.exe
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.csproj.GenerateResource.Cache
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\bin\Debug\Samoposluga.exe
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\bin\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\Nova fascikla (2)\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.csprojResolveAssemblyReference.cache
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.exe
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\bin\Debug\Samoposluga.exe
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\bin\Debug\Samoposluga.pdb
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.csprojResolveAssemblyReference.cache
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.csproj.GenerateResource.Cache
+C:\Users\aleks\OneDrive\Radna površina\PRIJEMNI\Program\Samoposluga\Samoposluga\obj\x86\Debug\Samoposluga.Glavni_prozor.resources
